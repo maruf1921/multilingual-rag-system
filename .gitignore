@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode settings
+.vscode/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Python packaging
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Tesseract or OCR cache (if any)
+*.traineddata
+tessdata/
+
+# Ollama cache (optional)
+.ollama/
+
+# PDF cache (if any)
+*.pdf~
+
+# pyenv
+.python-version
+
+# Pyre type checker
+.pyre/
+
+# MyPy
+.mypy_cache/
+
+# FAISS index files (optional)
+*.faiss
+*.index
