@@ -137,4 +137,6 @@ This project implements a multilingual RAG system for answering English and Beng
 - **Improving relevance:**  
   Possible improvements: better OCR, dynamic chunk sizing, domain-specific embeddings, larger corpus.
 
+- It performs well with English, but its support for Bangla is limited in the free version model.
+
 ---
